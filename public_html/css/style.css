@@ -1,0 +1,12 @@
+body{
+    background-color: lightslategray;
+}
+a{
+    color: black;
+}
+body{
+    border: 50px solid darkslategray;
+    padding: 40px;
+    margin: 0px
+} 
+ 
