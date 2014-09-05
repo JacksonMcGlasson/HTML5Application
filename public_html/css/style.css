@@ -2,10 +2,13 @@ body{
     background-image: url(http://creativity103.com/collections/Smoke/smoke_mist.jpg)
 }
 a{
-    color: black;
+    color: azure;
 }
 body{
     border: 50px solid darkslategray;
     padding: 40px;
-    margin: 0px
+    margin: 0px;
+}
+body{
+    color: azure;
 }
