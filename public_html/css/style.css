@@ -1,9 +1,9 @@
 body{
     background-image: url(http://creativity103.com/collections/Smoke/smoke_mist.jpg)
-}
+} /*smoky backround image*/
 a{
     color: azure;
-}
+}/*link color*/
 body{
     border: 50px solid darkslategrey;
     padding: 40px;
@@ -11,4 +11,7 @@ body{
 }
 body{
     color: azure;
+}
+h1{
+    font-size: 40px;
 }
